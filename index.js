@@ -42,6 +42,14 @@ var questions = [
   {
     question: "Where do i work ",
     answer: "Jio"
+  },
+  {
+    question:"My Fav actor ",
+    answer:"Ranbir Kapoor"
+  },
+  {
+    question:"My Favourite food",
+    answer:"Pav Bhaji"
   }
 
 ];
